@@ -1,0 +1,10 @@
+name: JoinLeave
+version: 1.0
+author: John200410
+
+main: black.nigger.jl.Main
+
+commands:
+  toggleconnectionmsgs:
+    description: toggle join and leave messages
+    usage: "toggleconnectionmsgs"
