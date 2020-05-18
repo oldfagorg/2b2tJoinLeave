@@ -1,10 +1,8 @@
-name: JoinLeave
+name: ConnectionMsgs
 version: 1.0
-author: John200410
+author: cookiedragon234
 
-main: black.nigger.jl.Main
+main: org.oldfag.connectionmsgs.ConnectionMsgsPlugin
+
 
 commands:
-  toggleconnectionmsgs:
-    description: toggle join and leave messages
-    usage: "toggleconnectionmsgs"
